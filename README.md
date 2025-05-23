@@ -1,6 +1,6 @@
-# USC8 AI Workshop
+# USC-C AI 1st Workshop
 
-This repository contains the educational material (Jupyter notebooks) prepared for the Artificial Intelligence workshop organized by INAF USC-C. The notebooks cover various applications of Machine Learning and Deep Learning in astronomy.
+This repository contains the educational material (Jupyter notebooks) prepared for the 1st workshop of the INAF USC-C thematic group on Artificial Intelligence (Catania, 21-23 May 2025). The notebooks cover various applications of Machine Learning and Deep Learning in astronomy.
 
 ## Contents
 
@@ -42,10 +42,10 @@ The easiest way to interact with these notebooks is using Google Colaboratory (C
 
 Click the badges below to open each notebook directly in Google Colab:
 
-*   **Redshift Regression:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inaf-usc-c-ai/workshop-2025/blob/main/redshift_regression.ipynb)
-*   **Galaxy MNIST Classifier:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inaf-usc-c-ai/workshop-2025/blob/main/gmnist_classifier_light.ipynb)
-*   **Time Series Classification:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inaf-usc-c-ai/workshop-2025/blob/main/time_series_classification.ipynb)
-*   **Graph NN:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inaf-usc-c-ai/workshop-2025/blob/main/GNN_pytorch_AIworkshop.ipynb)
+*   **Redshift Regression:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inaf-usc-c-ai/workshop-2025/blob/main/notebooks/redshift_regression.ipynb)
+*   **Galaxy MNIST Classifier:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inaf-usc-c-ai/workshop-2025/notebooks/blob/main/notebooks/gmnist_classifier_light.ipynb)
+*   **Time Series Classification:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inaf-usc-c-ai/workshop-2025/notebooks/blob/main/notebooks/time_series_classification.ipynb)
+*   **Graph NN:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inaf-usc-c-ai/workshop-2025/blob/main/notebooks/GNN_pytorch_AIworkshop.ipynb)
 
 **Option 2: Manual Opening from Colab**
 
@@ -68,6 +68,15 @@ Remember that the Colab environment is temporary; if you make changes you want t
 ## License
 
 The content of this repository is released under the MIT License. For more details, see the `LICENSE` file.
+
+## Contributors
+
+- Simone Riggi
+- Thomas Cecconello
+- Lorenzo Monti
+- Stefano Cavuoti
+- Giuseppe Angora
+- Farida Farsian
 
 ---
 
